@@ -3,7 +3,7 @@ Mingw G++ and GTest in Visual Studio Code or Windows
 Setup Code
 - Installing Visual Studio Code
 - Installing MingW Tools https://code.visualstudio.com/docs/cpp/config-mingw (add to PATH)
-- Installing CMake (add to PATH)
+- Installing CMake https://cmake.org/download/ (add to PATH)
 - Installing C++ Extension
 - Installing CMake Extension
 
@@ -11,8 +11,9 @@ Setup Code
 Setup Default Project
 - Create main.cpp file
 - Create CMakeLists.txt
-- VS Code Navigation Bar > CMake: Quick Start
-- Compiles!
+- VS Code Navigation Bar "> CMake: Configure" -> Select "MinGW G++"
+- CMake generation starts
+- Can be done manually as well (mkdir build + cmake -G "MinGW Makefiles")
 
 Setup GTest
 - Download Gtest Repository
