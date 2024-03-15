@@ -10,7 +10,7 @@ The output was:
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
 
-The C compiler identification is GNU, found in "c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/3.13.0/CompilerIdC/a.exe"
+The C compiler identification is GNU, found in "c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/3.13.0/CompilerIdC/a.exe"
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
 Compiler: C:/msys64/ucrt64/bin/g++.exe 
@@ -23,37 +23,37 @@ The output was:
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
 
-The CXX compiler identification is GNU, found in "c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/3.13.0/CompilerIdCXX/a.exe"
+The CXX compiler identification is GNU, found in "c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/3.13.0/CompilerIdCXX/a.exe"
 
 Determining if the C compiler works passed with the following output:
-Change Dir: c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp
+Change Dir: c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/msys64/ucrt64/bin/mingw32-make.exe" "cmTC_d1578/fast"
-C:/msys64/ucrt64/bin/mingw32-make.exe -f CMakeFiles\cmTC_d1578.dir\build.make CMakeFiles/cmTC_d1578.dir/build
-mingw32-make[1]: Entering directory 'c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_d1578.dir/testCCompiler.c.obj
-cd /d C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\CMakeTmp && C:\msys64\ucrt64\bin\gcc.exe    -o CMakeFiles\cmTC_d1578.dir\testCCompiler.c.obj   -c C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\CMakeTmp\testCCompiler.c
-Linking C executable cmTC_d1578.exe
-cd /d C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\CMakeTmp && "C:\Program Files\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_d1578.dir\link.txt --verbose=1
-"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_d1578.dir/objects.a
-C:\msys64\ucrt64\bin\ar.exe cr CMakeFiles\cmTC_d1578.dir/objects.a @CMakeFiles\cmTC_d1578.dir\objects1.rsp
-C:\msys64\ucrt64\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_d1578.dir/objects.a -Wl,--no-whole-archive  -o cmTC_d1578.exe -Wl,--out-implib,libcmTC_d1578.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_d1578.dir\linklibs.rsp
-mingw32-make[1]: Leaving directory 'c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp'
+Run Build Command:"C:/msys64/ucrt64/bin/mingw32-make.exe" "cmTC_43971/fast"
+C:/msys64/ucrt64/bin/mingw32-make.exe -f CMakeFiles\cmTC_43971.dir\build.make CMakeFiles/cmTC_43971.dir/build
+mingw32-make[1]: Entering directory 'c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_43971.dir/testCCompiler.c.obj
+cd /d C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\CMakeTmp && C:\msys64\ucrt64\bin\gcc.exe    -o CMakeFiles\cmTC_43971.dir\testCCompiler.c.obj   -c C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\CMakeTmp\testCCompiler.c
+Linking C executable cmTC_43971.exe
+cd /d C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\CMakeTmp && "C:\Program Files\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_43971.dir\link.txt --verbose=1
+"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_43971.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe cr CMakeFiles\cmTC_43971.dir/objects.a @CMakeFiles\cmTC_43971.dir\objects1.rsp
+C:\msys64\ucrt64\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_43971.dir/objects.a -Wl,--no-whole-archive  -o cmTC_43971.exe -Wl,--out-implib,libcmTC_43971.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_43971.dir\linklibs.rsp
+mingw32-make[1]: Leaving directory 'c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp'
 
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp
+Change Dir: c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/msys64/ucrt64/bin/mingw32-make.exe" "cmTC_d0071/fast"
-C:/msys64/ucrt64/bin/mingw32-make.exe -f CMakeFiles\cmTC_d0071.dir\build.make CMakeFiles/cmTC_d0071.dir/build
-mingw32-make[1]: Entering directory 'c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_d0071.dir/CMakeCCompilerABI.c.obj
-cd /d C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\CMakeTmp && C:\msys64\ucrt64\bin\gcc.exe    -o CMakeFiles\cmTC_d0071.dir\CMakeCCompilerABI.c.obj   -c "C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeCCompilerABI.c"
-Linking C executable cmTC_d0071.exe
-cd /d C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\CMakeTmp && "C:\Program Files\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_d0071.dir\link.txt --verbose=1
-"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_d0071.dir/objects.a
-C:\msys64\ucrt64\bin\ar.exe cr CMakeFiles\cmTC_d0071.dir/objects.a @CMakeFiles\cmTC_d0071.dir\objects1.rsp
-C:\msys64\ucrt64\bin\gcc.exe     -v -Wl,--whole-archive CMakeFiles\cmTC_d0071.dir/objects.a -Wl,--no-whole-archive  -o cmTC_d0071.exe -Wl,--out-implib,libcmTC_d0071.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+Run Build Command:"C:/msys64/ucrt64/bin/mingw32-make.exe" "cmTC_c19a3/fast"
+C:/msys64/ucrt64/bin/mingw32-make.exe -f CMakeFiles\cmTC_c19a3.dir\build.make CMakeFiles/cmTC_c19a3.dir/build
+mingw32-make[1]: Entering directory 'c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c19a3.dir/CMakeCCompilerABI.c.obj
+cd /d C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\CMakeTmp && C:\msys64\ucrt64\bin\gcc.exe    -o CMakeFiles\cmTC_c19a3.dir\CMakeCCompilerABI.c.obj   -c "C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeCCompilerABI.c"
+Linking C executable cmTC_c19a3.exe
+cd /d C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\CMakeTmp && "C:\Program Files\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_c19a3.dir\link.txt --verbose=1
+"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_c19a3.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe cr CMakeFiles\cmTC_c19a3.dir/objects.a @CMakeFiles\cmTC_c19a3.dir\objects1.rsp
+C:\msys64\ucrt64\bin\gcc.exe     -v -Wl,--whole-archive CMakeFiles\cmTC_c19a3.dir/objects.a -Wl,--no-whole-archive  -o cmTC_c19a3.exe -Wl,--out-implib,libcmTC_c19a3.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
 Using built-in specs.
 COLLECT_GCC=C:\msys64\ucrt64\bin\gcc.exe
 COLLECT_LTO_WRAPPER=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/lto-wrapper.exe
@@ -64,26 +64,26 @@ Supported LTO compression algorithms: zlib zstd
 gcc version 13.2.0 (Rev3, Built by MSYS2 project) 
 COMPILER_PATH=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/;C:/msys64/ucrt64/bin/../lib/gcc/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../x86_64-w64-mingw32/bin/
 LIBRARY_PATH=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/;C:/msys64/ucrt64/bin/../lib/gcc/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../lib/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../x86_64-w64-mingw32/lib/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_d0071.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_d0071.'
- C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/collect2.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\Saturn\AppData\Local\Temp\cc4cB8W9.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_d0071.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../.. --whole-archive CMakeFiles\cmTC_d0071.dir/objects.a --no-whole-archive --out-implib libcmTC_d0071.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/crtend.o
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_d0071.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_d0071.'
-mingw32-make[1]: Leaving directory 'c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_c19a3.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_c19a3.'
+ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/collect2.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\Saturn\AppData\Local\Temp\cchvriYg.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_c19a3.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../.. --whole-archive CMakeFiles\cmTC_c19a3.dir/objects.a --no-whole-archive --out-implib libcmTC_c19a3.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/crtend.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_c19a3.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_c19a3.'
+mingw32-make[1]: Leaving directory 'c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp'
 
 
 Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"C:/msys64/ucrt64/bin/mingw32-make.exe" "cmTC_d0071/fast"]
-  ignore line: [C:/msys64/ucrt64/bin/mingw32-make.exe -f CMakeFiles\cmTC_d0071.dir\build.make CMakeFiles/cmTC_d0071.dir/build]
-  ignore line: [mingw32-make[1]: Entering directory 'c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp']
-  ignore line: [Building C object CMakeFiles/cmTC_d0071.dir/CMakeCCompilerABI.c.obj]
-  ignore line: [cd /d C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\CMakeTmp && C:\msys64\ucrt64\bin\gcc.exe    -o CMakeFiles\cmTC_d0071.dir\CMakeCCompilerABI.c.obj   -c "C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeCCompilerABI.c"]
-  ignore line: [Linking C executable cmTC_d0071.exe]
-  ignore line: [cd /d C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\CMakeTmp && "C:\Program Files\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_d0071.dir\link.txt --verbose=1]
-  ignore line: ["C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_d0071.dir/objects.a]
-  ignore line: [C:\msys64\ucrt64\bin\ar.exe cr CMakeFiles\cmTC_d0071.dir/objects.a @CMakeFiles\cmTC_d0071.dir\objects1.rsp]
-  ignore line: [C:\msys64\ucrt64\bin\gcc.exe     -v -Wl,--whole-archive CMakeFiles\cmTC_d0071.dir/objects.a -Wl,--no-whole-archive  -o cmTC_d0071.exe -Wl,--out-implib,libcmTC_d0071.dll.a -Wl,--major-image-version,0,--minor-image-version,0 ]
+  ignore line: [Run Build Command:"C:/msys64/ucrt64/bin/mingw32-make.exe" "cmTC_c19a3/fast"]
+  ignore line: [C:/msys64/ucrt64/bin/mingw32-make.exe -f CMakeFiles\cmTC_c19a3.dir\build.make CMakeFiles/cmTC_c19a3.dir/build]
+  ignore line: [mingw32-make[1]: Entering directory 'c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_c19a3.dir/CMakeCCompilerABI.c.obj]
+  ignore line: [cd /d C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\CMakeTmp && C:\msys64\ucrt64\bin\gcc.exe    -o CMakeFiles\cmTC_c19a3.dir\CMakeCCompilerABI.c.obj   -c "C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeCCompilerABI.c"]
+  ignore line: [Linking C executable cmTC_c19a3.exe]
+  ignore line: [cd /d C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\CMakeTmp && "C:\Program Files\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_c19a3.dir\link.txt --verbose=1]
+  ignore line: ["C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_c19a3.dir/objects.a]
+  ignore line: [C:\msys64\ucrt64\bin\ar.exe cr CMakeFiles\cmTC_c19a3.dir/objects.a @CMakeFiles\cmTC_c19a3.dir\objects1.rsp]
+  ignore line: [C:\msys64\ucrt64\bin\gcc.exe     -v -Wl,--whole-archive CMakeFiles\cmTC_c19a3.dir/objects.a -Wl,--no-whole-archive  -o cmTC_c19a3.exe -Wl,--out-implib,libcmTC_c19a3.dll.a -Wl,--major-image-version,0,--minor-image-version,0 ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=C:\msys64\ucrt64\bin\gcc.exe]
   ignore line: [COLLECT_LTO_WRAPPER=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/lto-wrapper.exe]
@@ -101,13 +101,13 @@ Parsed C implicit link information from above output:
   ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../lib/]
   ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../x86_64-w64-mingw32/lib/]
   ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_d0071.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_d0071.']
-  link line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/collect2.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\Saturn\AppData\Local\Temp\cc4cB8W9.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_d0071.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../.. --whole-archive CMakeFiles\cmTC_d0071.dir/objects.a --no-whole-archive --out-implib libcmTC_d0071.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/crtend.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_c19a3.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_c19a3.']
+  link line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/collect2.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\Saturn\AppData\Local\Temp\cchvriYg.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_c19a3.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../.. --whole-archive CMakeFiles\cmTC_c19a3.dir/objects.a --no-whole-archive --out-implib libcmTC_c19a3.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/crtend.o]
     arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/collect2.exe] ==> ignore
     arg [-plugin] ==> ignore
     arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/liblto_plugin.dll] ==> ignore
     arg [-plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/lto-wrapper.exe] ==> ignore
-    arg [-plugin-opt=-fresolution=C:\Users\Saturn\AppData\Local\Temp\cc4cB8W9.res] ==> ignore
+    arg [-plugin-opt=-fresolution=C:\Users\Saturn\AppData\Local\Temp\cchvriYg.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_eh] ==> ignore
@@ -131,7 +131,7 @@ Parsed C implicit link information from above output:
     arg [i386pep] ==> ignore
     arg [-Bdynamic] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_d0071.exe] ==> ignore
+    arg [cmTC_c19a3.exe] ==> ignore
     arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../lib/crt2.o] ==> ignore
     arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/crtbegin.o] ==> ignore
     arg [-LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0] ==> dir [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0]
@@ -141,10 +141,10 @@ Parsed C implicit link information from above output:
     arg [-LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../x86_64-w64-mingw32/lib] ==> dir [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../x86_64-w64-mingw32/lib]
     arg [-LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../..] ==> dir [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../..]
     arg [--whole-archive] ==> ignore
-    arg [CMakeFiles\cmTC_d0071.dir/objects.a] ==> ignore
+    arg [CMakeFiles\cmTC_c19a3.dir/objects.a] ==> ignore
     arg [--no-whole-archive] ==> ignore
     arg [--out-implib] ==> ignore
-    arg [libcmTC_d0071.dll.a] ==> ignore
+    arg [libcmTC_c19a3.dll.a] ==> ignore
     arg [--major-image-version] ==> ignore
     arg [0] ==> ignore
     arg [--minor-image-version] ==> ignore
@@ -188,19 +188,19 @@ Parsed C implicit link information from above output:
 
 
 Detecting C [-std=c11] compiler features compiled with the following output:
-Change Dir: c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp
+Change Dir: c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/msys64/ucrt64/bin/mingw32-make.exe" "cmTC_cac76/fast"
-C:/msys64/ucrt64/bin/mingw32-make.exe -f CMakeFiles\cmTC_cac76.dir\build.make CMakeFiles/cmTC_cac76.dir/build
-mingw32-make[1]: Entering directory 'c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_cac76.dir/feature_tests.c.obj
-cd /d C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\CMakeTmp && C:\msys64\ucrt64\bin\gcc.exe   -std=c11 -o CMakeFiles\cmTC_cac76.dir\feature_tests.c.obj   -c C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\feature_tests.c
-Linking C executable cmTC_cac76.exe
-cd /d C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\CMakeTmp && "C:\Program Files\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_cac76.dir\link.txt --verbose=1
-"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_cac76.dir/objects.a
-C:\msys64\ucrt64\bin\ar.exe cr CMakeFiles\cmTC_cac76.dir/objects.a @CMakeFiles\cmTC_cac76.dir\objects1.rsp
-C:\msys64\ucrt64\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_cac76.dir/objects.a -Wl,--no-whole-archive  -o cmTC_cac76.exe -Wl,--out-implib,libcmTC_cac76.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_cac76.dir\linklibs.rsp
-mingw32-make[1]: Leaving directory 'c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp'
+Run Build Command:"C:/msys64/ucrt64/bin/mingw32-make.exe" "cmTC_0f239/fast"
+C:/msys64/ucrt64/bin/mingw32-make.exe -f CMakeFiles\cmTC_0f239.dir\build.make CMakeFiles/cmTC_0f239.dir/build
+mingw32-make[1]: Entering directory 'c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_0f239.dir/feature_tests.c.obj
+cd /d C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\CMakeTmp && C:\msys64\ucrt64\bin\gcc.exe   -std=c11 -o CMakeFiles\cmTC_0f239.dir\feature_tests.c.obj   -c C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\feature_tests.c
+Linking C executable cmTC_0f239.exe
+cd /d C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\CMakeTmp && "C:\Program Files\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_0f239.dir\link.txt --verbose=1
+"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_0f239.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe cr CMakeFiles\cmTC_0f239.dir/objects.a @CMakeFiles\cmTC_0f239.dir\objects1.rsp
+C:\msys64\ucrt64\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_0f239.dir/objects.a -Wl,--no-whole-archive  -o cmTC_0f239.exe -Wl,--out-implib,libcmTC_0f239.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_0f239.dir\linklibs.rsp
+mingw32-make[1]: Leaving directory 'c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -210,19 +210,19 @@ mingw32-make[1]: Leaving directory 'c:/Users/Saturn/Documents/git/unittest_test/
 
 
 Detecting C [-std=c99] compiler features compiled with the following output:
-Change Dir: c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp
+Change Dir: c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/msys64/ucrt64/bin/mingw32-make.exe" "cmTC_c9c20/fast"
-C:/msys64/ucrt64/bin/mingw32-make.exe -f CMakeFiles\cmTC_c9c20.dir\build.make CMakeFiles/cmTC_c9c20.dir/build
-mingw32-make[1]: Entering directory 'c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_c9c20.dir/feature_tests.c.obj
-cd /d C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\CMakeTmp && C:\msys64\ucrt64\bin\gcc.exe   -std=c99 -o CMakeFiles\cmTC_c9c20.dir\feature_tests.c.obj   -c C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\feature_tests.c
-Linking C executable cmTC_c9c20.exe
-cd /d C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\CMakeTmp && "C:\Program Files\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_c9c20.dir\link.txt --verbose=1
-"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_c9c20.dir/objects.a
-C:\msys64\ucrt64\bin\ar.exe cr CMakeFiles\cmTC_c9c20.dir/objects.a @CMakeFiles\cmTC_c9c20.dir\objects1.rsp
-C:\msys64\ucrt64\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_c9c20.dir/objects.a -Wl,--no-whole-archive  -o cmTC_c9c20.exe -Wl,--out-implib,libcmTC_c9c20.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_c9c20.dir\linklibs.rsp
-mingw32-make[1]: Leaving directory 'c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp'
+Run Build Command:"C:/msys64/ucrt64/bin/mingw32-make.exe" "cmTC_24991/fast"
+C:/msys64/ucrt64/bin/mingw32-make.exe -f CMakeFiles\cmTC_24991.dir\build.make CMakeFiles/cmTC_24991.dir/build
+mingw32-make[1]: Entering directory 'c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_24991.dir/feature_tests.c.obj
+cd /d C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\CMakeTmp && C:\msys64\ucrt64\bin\gcc.exe   -std=c99 -o CMakeFiles\cmTC_24991.dir\feature_tests.c.obj   -c C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\feature_tests.c
+Linking C executable cmTC_24991.exe
+cd /d C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\CMakeTmp && "C:\Program Files\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_24991.dir\link.txt --verbose=1
+"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_24991.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe cr CMakeFiles\cmTC_24991.dir/objects.a @CMakeFiles\cmTC_24991.dir\objects1.rsp
+C:\msys64\ucrt64\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_24991.dir/objects.a -Wl,--no-whole-archive  -o cmTC_24991.exe -Wl,--out-implib,libcmTC_24991.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_24991.dir\linklibs.rsp
+mingw32-make[1]: Leaving directory 'c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -232,19 +232,19 @@ mingw32-make[1]: Leaving directory 'c:/Users/Saturn/Documents/git/unittest_test/
 
 
 Detecting C [-std=c90] compiler features compiled with the following output:
-Change Dir: c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp
+Change Dir: c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/msys64/ucrt64/bin/mingw32-make.exe" "cmTC_9a35b/fast"
-C:/msys64/ucrt64/bin/mingw32-make.exe -f CMakeFiles\cmTC_9a35b.dir\build.make CMakeFiles/cmTC_9a35b.dir/build
-mingw32-make[1]: Entering directory 'c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_9a35b.dir/feature_tests.c.obj
-cd /d C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\CMakeTmp && C:\msys64\ucrt64\bin\gcc.exe   -std=c90 -o CMakeFiles\cmTC_9a35b.dir\feature_tests.c.obj   -c C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\feature_tests.c
-Linking C executable cmTC_9a35b.exe
-cd /d C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\CMakeTmp && "C:\Program Files\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_9a35b.dir\link.txt --verbose=1
-"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_9a35b.dir/objects.a
-C:\msys64\ucrt64\bin\ar.exe cr CMakeFiles\cmTC_9a35b.dir/objects.a @CMakeFiles\cmTC_9a35b.dir\objects1.rsp
-C:\msys64\ucrt64\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_9a35b.dir/objects.a -Wl,--no-whole-archive  -o cmTC_9a35b.exe -Wl,--out-implib,libcmTC_9a35b.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_9a35b.dir\linklibs.rsp
-mingw32-make[1]: Leaving directory 'c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp'
+Run Build Command:"C:/msys64/ucrt64/bin/mingw32-make.exe" "cmTC_9b1d5/fast"
+C:/msys64/ucrt64/bin/mingw32-make.exe -f CMakeFiles\cmTC_9b1d5.dir\build.make CMakeFiles/cmTC_9b1d5.dir/build
+mingw32-make[1]: Entering directory 'c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_9b1d5.dir/feature_tests.c.obj
+cd /d C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\CMakeTmp && C:\msys64\ucrt64\bin\gcc.exe   -std=c90 -o CMakeFiles\cmTC_9b1d5.dir\feature_tests.c.obj   -c C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\feature_tests.c
+Linking C executable cmTC_9b1d5.exe
+cd /d C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\CMakeTmp && "C:\Program Files\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_9b1d5.dir\link.txt --verbose=1
+"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_9b1d5.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe cr CMakeFiles\cmTC_9b1d5.dir/objects.a @CMakeFiles\cmTC_9b1d5.dir\objects1.rsp
+C:\msys64\ucrt64\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_9b1d5.dir/objects.a -Wl,--no-whole-archive  -o cmTC_9b1d5.exe -Wl,--out-implib,libcmTC_9b1d5.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_9b1d5.dir\linklibs.rsp
+mingw32-make[1]: Leaving directory 'c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -252,34 +252,34 @@ mingw32-make[1]: Leaving directory 'c:/Users/Saturn/Documents/git/unittest_test/
     Feature record: C_FEATURE:0c_static_assert
     Feature record: C_FEATURE:0c_variadic_macros
 Determining if the CXX compiler works passed with the following output:
-Change Dir: c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp
+Change Dir: c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/msys64/ucrt64/bin/mingw32-make.exe" "cmTC_b1c5b/fast"
-C:/msys64/ucrt64/bin/mingw32-make.exe -f CMakeFiles\cmTC_b1c5b.dir\build.make CMakeFiles/cmTC_b1c5b.dir/build
-mingw32-make[1]: Entering directory 'c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_b1c5b.dir/testCXXCompiler.cxx.obj
-cd /d C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\CMakeTmp && C:\msys64\ucrt64\bin\g++.exe     -o CMakeFiles\cmTC_b1c5b.dir\testCXXCompiler.cxx.obj -c C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
-Linking CXX executable cmTC_b1c5b.exe
-cd /d C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\CMakeTmp && "C:\Program Files\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_b1c5b.dir\link.txt --verbose=1
-"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_b1c5b.dir/objects.a
-C:\msys64\ucrt64\bin\ar.exe cr CMakeFiles\cmTC_b1c5b.dir/objects.a @CMakeFiles\cmTC_b1c5b.dir\objects1.rsp
-C:\msys64\ucrt64\bin\g++.exe      -Wl,--whole-archive CMakeFiles\cmTC_b1c5b.dir/objects.a -Wl,--no-whole-archive  -o cmTC_b1c5b.exe -Wl,--out-implib,libcmTC_b1c5b.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_b1c5b.dir\linklibs.rsp
-mingw32-make[1]: Leaving directory 'c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp'
+Run Build Command:"C:/msys64/ucrt64/bin/mingw32-make.exe" "cmTC_0e196/fast"
+C:/msys64/ucrt64/bin/mingw32-make.exe -f CMakeFiles\cmTC_0e196.dir\build.make CMakeFiles/cmTC_0e196.dir/build
+mingw32-make[1]: Entering directory 'c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_0e196.dir/testCXXCompiler.cxx.obj
+cd /d C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\CMakeTmp && C:\msys64\ucrt64\bin\g++.exe     -o CMakeFiles\cmTC_0e196.dir\testCXXCompiler.cxx.obj -c C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+Linking CXX executable cmTC_0e196.exe
+cd /d C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\CMakeTmp && "C:\Program Files\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_0e196.dir\link.txt --verbose=1
+"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_0e196.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe cr CMakeFiles\cmTC_0e196.dir/objects.a @CMakeFiles\cmTC_0e196.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe      -Wl,--whole-archive CMakeFiles\cmTC_0e196.dir/objects.a -Wl,--no-whole-archive  -o cmTC_0e196.exe -Wl,--out-implib,libcmTC_0e196.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_0e196.dir\linklibs.rsp
+mingw32-make[1]: Leaving directory 'c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp'
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp
+Change Dir: c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/msys64/ucrt64/bin/mingw32-make.exe" "cmTC_20a2c/fast"
-C:/msys64/ucrt64/bin/mingw32-make.exe -f CMakeFiles\cmTC_20a2c.dir\build.make CMakeFiles/cmTC_20a2c.dir/build
-mingw32-make[1]: Entering directory 'c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_20a2c.dir/CMakeCXXCompilerABI.cpp.obj
-cd /d C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\CMakeTmp && C:\msys64\ucrt64\bin\g++.exe     -o CMakeFiles\cmTC_20a2c.dir\CMakeCXXCompilerABI.cpp.obj -c "C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeCXXCompilerABI.cpp"
-Linking CXX executable cmTC_20a2c.exe
-cd /d C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\CMakeTmp && "C:\Program Files\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_20a2c.dir\link.txt --verbose=1
-"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_20a2c.dir/objects.a
-C:\msys64\ucrt64\bin\ar.exe cr CMakeFiles\cmTC_20a2c.dir/objects.a @CMakeFiles\cmTC_20a2c.dir\objects1.rsp
-C:\msys64\ucrt64\bin\g++.exe     -v -Wl,--whole-archive CMakeFiles\cmTC_20a2c.dir/objects.a -Wl,--no-whole-archive  -o cmTC_20a2c.exe -Wl,--out-implib,libcmTC_20a2c.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+Run Build Command:"C:/msys64/ucrt64/bin/mingw32-make.exe" "cmTC_3e182/fast"
+C:/msys64/ucrt64/bin/mingw32-make.exe -f CMakeFiles\cmTC_3e182.dir\build.make CMakeFiles/cmTC_3e182.dir/build
+mingw32-make[1]: Entering directory 'c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_3e182.dir/CMakeCXXCompilerABI.cpp.obj
+cd /d C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\CMakeTmp && C:\msys64\ucrt64\bin\g++.exe     -o CMakeFiles\cmTC_3e182.dir\CMakeCXXCompilerABI.cpp.obj -c "C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeCXXCompilerABI.cpp"
+Linking CXX executable cmTC_3e182.exe
+cd /d C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\CMakeTmp && "C:\Program Files\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_3e182.dir\link.txt --verbose=1
+"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_3e182.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe cr CMakeFiles\cmTC_3e182.dir/objects.a @CMakeFiles\cmTC_3e182.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe     -v -Wl,--whole-archive CMakeFiles\cmTC_3e182.dir/objects.a -Wl,--no-whole-archive  -o cmTC_3e182.exe -Wl,--out-implib,libcmTC_3e182.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
 Using built-in specs.
 COLLECT_GCC=C:\msys64\ucrt64\bin\g++.exe
 COLLECT_LTO_WRAPPER=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/lto-wrapper.exe
@@ -290,26 +290,26 @@ Supported LTO compression algorithms: zlib zstd
 gcc version 13.2.0 (Rev3, Built by MSYS2 project) 
 COMPILER_PATH=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/;C:/msys64/ucrt64/bin/../lib/gcc/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../x86_64-w64-mingw32/bin/
 LIBRARY_PATH=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/;C:/msys64/ucrt64/bin/../lib/gcc/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../lib/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../x86_64-w64-mingw32/lib/;C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_20a2c.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_20a2c.'
- C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/collect2.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\Saturn\AppData\Local\Temp\cc8YU56D.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_20a2c.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../.. --whole-archive CMakeFiles\cmTC_20a2c.dir/objects.a --no-whole-archive --out-implib libcmTC_20a2c.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/crtend.o
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_20a2c.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_20a2c.'
-mingw32-make[1]: Leaving directory 'c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_3e182.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_3e182.'
+ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/collect2.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\Saturn\AppData\Local\Temp\ccyuhHRS.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_3e182.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../.. --whole-archive CMakeFiles\cmTC_3e182.dir/objects.a --no-whole-archive --out-implib libcmTC_3e182.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/crtend.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_3e182.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_3e182.'
+mingw32-make[1]: Leaving directory 'c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp'
 
 
 Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"C:/msys64/ucrt64/bin/mingw32-make.exe" "cmTC_20a2c/fast"]
-  ignore line: [C:/msys64/ucrt64/bin/mingw32-make.exe -f CMakeFiles\cmTC_20a2c.dir\build.make CMakeFiles/cmTC_20a2c.dir/build]
-  ignore line: [mingw32-make[1]: Entering directory 'c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp']
-  ignore line: [Building CXX object CMakeFiles/cmTC_20a2c.dir/CMakeCXXCompilerABI.cpp.obj]
-  ignore line: [cd /d C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\CMakeTmp && C:\msys64\ucrt64\bin\g++.exe     -o CMakeFiles\cmTC_20a2c.dir\CMakeCXXCompilerABI.cpp.obj -c "C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeCXXCompilerABI.cpp"]
-  ignore line: [Linking CXX executable cmTC_20a2c.exe]
-  ignore line: [cd /d C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\CMakeTmp && "C:\Program Files\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_20a2c.dir\link.txt --verbose=1]
-  ignore line: ["C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_20a2c.dir/objects.a]
-  ignore line: [C:\msys64\ucrt64\bin\ar.exe cr CMakeFiles\cmTC_20a2c.dir/objects.a @CMakeFiles\cmTC_20a2c.dir\objects1.rsp]
-  ignore line: [C:\msys64\ucrt64\bin\g++.exe     -v -Wl,--whole-archive CMakeFiles\cmTC_20a2c.dir/objects.a -Wl,--no-whole-archive  -o cmTC_20a2c.exe -Wl,--out-implib,libcmTC_20a2c.dll.a -Wl,--major-image-version,0,--minor-image-version,0 ]
+  ignore line: [Run Build Command:"C:/msys64/ucrt64/bin/mingw32-make.exe" "cmTC_3e182/fast"]
+  ignore line: [C:/msys64/ucrt64/bin/mingw32-make.exe -f CMakeFiles\cmTC_3e182.dir\build.make CMakeFiles/cmTC_3e182.dir/build]
+  ignore line: [mingw32-make[1]: Entering directory 'c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp']
+  ignore line: [Building CXX object CMakeFiles/cmTC_3e182.dir/CMakeCXXCompilerABI.cpp.obj]
+  ignore line: [cd /d C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\CMakeTmp && C:\msys64\ucrt64\bin\g++.exe     -o CMakeFiles\cmTC_3e182.dir\CMakeCXXCompilerABI.cpp.obj -c "C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeCXXCompilerABI.cpp"]
+  ignore line: [Linking CXX executable cmTC_3e182.exe]
+  ignore line: [cd /d C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\CMakeTmp && "C:\Program Files\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_3e182.dir\link.txt --verbose=1]
+  ignore line: ["C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_3e182.dir/objects.a]
+  ignore line: [C:\msys64\ucrt64\bin\ar.exe cr CMakeFiles\cmTC_3e182.dir/objects.a @CMakeFiles\cmTC_3e182.dir\objects1.rsp]
+  ignore line: [C:\msys64\ucrt64\bin\g++.exe     -v -Wl,--whole-archive CMakeFiles\cmTC_3e182.dir/objects.a -Wl,--no-whole-archive  -o cmTC_3e182.exe -Wl,--out-implib,libcmTC_3e182.dll.a -Wl,--major-image-version,0,--minor-image-version,0 ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=C:\msys64\ucrt64\bin\g++.exe]
   ignore line: [COLLECT_LTO_WRAPPER=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/lto-wrapper.exe]
@@ -327,13 +327,13 @@ Parsed CXX implicit link information from above output:
   ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../lib/]
   ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../x86_64-w64-mingw32/lib/]
   ignore line: [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_20a2c.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_20a2c.']
-  link line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/collect2.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\Saturn\AppData\Local\Temp\cc8YU56D.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_20a2c.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../.. --whole-archive CMakeFiles\cmTC_20a2c.dir/objects.a --no-whole-archive --out-implib libcmTC_20a2c.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/crtend.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_3e182.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_3e182.']
+  link line: [ C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/collect2.exe -plugin C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\Saturn\AppData\Local\Temp\ccyuhHRS.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_3e182.exe C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../lib/crt2.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/crtbegin.o -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0 -LC:/msys64/ucrt64/bin/../lib/gcc -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../.. --whole-archive CMakeFiles\cmTC_3e182.dir/objects.a --no-whole-archive --out-implib libcmTC_3e182.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -lkernel32 C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../lib/default-manifest.o C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/crtend.o]
     arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/collect2.exe] ==> ignore
     arg [-plugin] ==> ignore
     arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/liblto_plugin.dll] ==> ignore
     arg [-plugin-opt=C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/lto-wrapper.exe] ==> ignore
-    arg [-plugin-opt=-fresolution=C:\Users\Saturn\AppData\Local\Temp\cc8YU56D.res] ==> ignore
+    arg [-plugin-opt=-fresolution=C:\Users\Saturn\AppData\Local\Temp\ccyuhHRS.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
@@ -357,7 +357,7 @@ Parsed CXX implicit link information from above output:
     arg [i386pep] ==> ignore
     arg [-Bdynamic] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_20a2c.exe] ==> ignore
+    arg [cmTC_3e182.exe] ==> ignore
     arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../lib/crt2.o] ==> ignore
     arg [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/crtbegin.o] ==> ignore
     arg [-LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0] ==> dir [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0]
@@ -367,10 +367,10 @@ Parsed CXX implicit link information from above output:
     arg [-LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../x86_64-w64-mingw32/lib] ==> dir [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../../../x86_64-w64-mingw32/lib]
     arg [-LC:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../..] ==> dir [C:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/13.2.0/../../..]
     arg [--whole-archive] ==> ignore
-    arg [CMakeFiles\cmTC_20a2c.dir/objects.a] ==> ignore
+    arg [CMakeFiles\cmTC_3e182.dir/objects.a] ==> ignore
     arg [--no-whole-archive] ==> ignore
     arg [--out-implib] ==> ignore
-    arg [libcmTC_20a2c.dll.a] ==> ignore
+    arg [libcmTC_3e182.dll.a] ==> ignore
     arg [--major-image-version] ==> ignore
     arg [0] ==> ignore
     arg [--minor-image-version] ==> ignore
@@ -413,19 +413,19 @@ Parsed CXX implicit link information from above output:
 
 
 Detecting CXX [-std=c++2a] compiler features compiled with the following output:
-Change Dir: c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp
+Change Dir: c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/msys64/ucrt64/bin/mingw32-make.exe" "cmTC_c0911/fast"
-C:/msys64/ucrt64/bin/mingw32-make.exe -f CMakeFiles\cmTC_c0911.dir\build.make CMakeFiles/cmTC_c0911.dir/build
-mingw32-make[1]: Entering directory 'c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_c0911.dir/feature_tests.cxx.obj
-cd /d C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\CMakeTmp && C:\msys64\ucrt64\bin\g++.exe    -std=c++2a -o CMakeFiles\cmTC_c0911.dir\feature_tests.cxx.obj -c C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\feature_tests.cxx
-Linking CXX executable cmTC_c0911.exe
-cd /d C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\CMakeTmp && "C:\Program Files\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_c0911.dir\link.txt --verbose=1
-"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_c0911.dir/objects.a
-C:\msys64\ucrt64\bin\ar.exe cr CMakeFiles\cmTC_c0911.dir/objects.a @CMakeFiles\cmTC_c0911.dir\objects1.rsp
-C:\msys64\ucrt64\bin\g++.exe      -Wl,--whole-archive CMakeFiles\cmTC_c0911.dir/objects.a -Wl,--no-whole-archive  -o cmTC_c0911.exe -Wl,--out-implib,libcmTC_c0911.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_c0911.dir\linklibs.rsp
-mingw32-make[1]: Leaving directory 'c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp'
+Run Build Command:"C:/msys64/ucrt64/bin/mingw32-make.exe" "cmTC_4b7b6/fast"
+C:/msys64/ucrt64/bin/mingw32-make.exe -f CMakeFiles\cmTC_4b7b6.dir\build.make CMakeFiles/cmTC_4b7b6.dir/build
+mingw32-make[1]: Entering directory 'c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_4b7b6.dir/feature_tests.cxx.obj
+cd /d C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\CMakeTmp && C:\msys64\ucrt64\bin\g++.exe    -std=c++2a -o CMakeFiles\cmTC_4b7b6.dir\feature_tests.cxx.obj -c C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\feature_tests.cxx
+Linking CXX executable cmTC_4b7b6.exe
+cd /d C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\CMakeTmp && "C:\Program Files\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_4b7b6.dir\link.txt --verbose=1
+"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_4b7b6.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe cr CMakeFiles\cmTC_4b7b6.dir/objects.a @CMakeFiles\cmTC_4b7b6.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe      -Wl,--whole-archive CMakeFiles\cmTC_4b7b6.dir/objects.a -Wl,--no-whole-archive  -o cmTC_4b7b6.exe -Wl,--out-implib,libcmTC_4b7b6.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_4b7b6.dir\linklibs.rsp
+mingw32-make[1]: Leaving directory 'c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -488,19 +488,19 @@ mingw32-make[1]: Leaving directory 'c:/Users/Saturn/Documents/git/unittest_test/
 
 
 Detecting CXX [-std=c++17] compiler features compiled with the following output:
-Change Dir: c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp
+Change Dir: c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/msys64/ucrt64/bin/mingw32-make.exe" "cmTC_c1354/fast"
-C:/msys64/ucrt64/bin/mingw32-make.exe -f CMakeFiles\cmTC_c1354.dir\build.make CMakeFiles/cmTC_c1354.dir/build
-mingw32-make[1]: Entering directory 'c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_c1354.dir/feature_tests.cxx.obj
-cd /d C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\CMakeTmp && C:\msys64\ucrt64\bin\g++.exe    -std=c++17 -o CMakeFiles\cmTC_c1354.dir\feature_tests.cxx.obj -c C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\feature_tests.cxx
-Linking CXX executable cmTC_c1354.exe
-cd /d C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\CMakeTmp && "C:\Program Files\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_c1354.dir\link.txt --verbose=1
-"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_c1354.dir/objects.a
-C:\msys64\ucrt64\bin\ar.exe cr CMakeFiles\cmTC_c1354.dir/objects.a @CMakeFiles\cmTC_c1354.dir\objects1.rsp
-C:\msys64\ucrt64\bin\g++.exe      -Wl,--whole-archive CMakeFiles\cmTC_c1354.dir/objects.a -Wl,--no-whole-archive  -o cmTC_c1354.exe -Wl,--out-implib,libcmTC_c1354.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_c1354.dir\linklibs.rsp
-mingw32-make[1]: Leaving directory 'c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp'
+Run Build Command:"C:/msys64/ucrt64/bin/mingw32-make.exe" "cmTC_d0418/fast"
+C:/msys64/ucrt64/bin/mingw32-make.exe -f CMakeFiles\cmTC_d0418.dir\build.make CMakeFiles/cmTC_d0418.dir/build
+mingw32-make[1]: Entering directory 'c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_d0418.dir/feature_tests.cxx.obj
+cd /d C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\CMakeTmp && C:\msys64\ucrt64\bin\g++.exe    -std=c++17 -o CMakeFiles\cmTC_d0418.dir\feature_tests.cxx.obj -c C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\feature_tests.cxx
+Linking CXX executable cmTC_d0418.exe
+cd /d C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\CMakeTmp && "C:\Program Files\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_d0418.dir\link.txt --verbose=1
+"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_d0418.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe cr CMakeFiles\cmTC_d0418.dir/objects.a @CMakeFiles\cmTC_d0418.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe      -Wl,--whole-archive CMakeFiles\cmTC_d0418.dir/objects.a -Wl,--no-whole-archive  -o cmTC_d0418.exe -Wl,--out-implib,libcmTC_d0418.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_d0418.dir\linklibs.rsp
+mingw32-make[1]: Leaving directory 'c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -563,19 +563,19 @@ mingw32-make[1]: Leaving directory 'c:/Users/Saturn/Documents/git/unittest_test/
 
 
 Detecting CXX [-std=c++14] compiler features compiled with the following output:
-Change Dir: c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp
+Change Dir: c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/msys64/ucrt64/bin/mingw32-make.exe" "cmTC_f2d70/fast"
-C:/msys64/ucrt64/bin/mingw32-make.exe -f CMakeFiles\cmTC_f2d70.dir\build.make CMakeFiles/cmTC_f2d70.dir/build
-mingw32-make[1]: Entering directory 'c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_f2d70.dir/feature_tests.cxx.obj
-cd /d C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\CMakeTmp && C:\msys64\ucrt64\bin\g++.exe    -std=c++14 -o CMakeFiles\cmTC_f2d70.dir\feature_tests.cxx.obj -c C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\feature_tests.cxx
-Linking CXX executable cmTC_f2d70.exe
-cd /d C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\CMakeTmp && "C:\Program Files\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_f2d70.dir\link.txt --verbose=1
-"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_f2d70.dir/objects.a
-C:\msys64\ucrt64\bin\ar.exe cr CMakeFiles\cmTC_f2d70.dir/objects.a @CMakeFiles\cmTC_f2d70.dir\objects1.rsp
-C:\msys64\ucrt64\bin\g++.exe      -Wl,--whole-archive CMakeFiles\cmTC_f2d70.dir/objects.a -Wl,--no-whole-archive  -o cmTC_f2d70.exe -Wl,--out-implib,libcmTC_f2d70.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_f2d70.dir\linklibs.rsp
-mingw32-make[1]: Leaving directory 'c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp'
+Run Build Command:"C:/msys64/ucrt64/bin/mingw32-make.exe" "cmTC_4c2cf/fast"
+C:/msys64/ucrt64/bin/mingw32-make.exe -f CMakeFiles\cmTC_4c2cf.dir\build.make CMakeFiles/cmTC_4c2cf.dir/build
+mingw32-make[1]: Entering directory 'c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_4c2cf.dir/feature_tests.cxx.obj
+cd /d C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\CMakeTmp && C:\msys64\ucrt64\bin\g++.exe    -std=c++14 -o CMakeFiles\cmTC_4c2cf.dir\feature_tests.cxx.obj -c C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\feature_tests.cxx
+Linking CXX executable cmTC_4c2cf.exe
+cd /d C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\CMakeTmp && "C:\Program Files\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_4c2cf.dir\link.txt --verbose=1
+"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_4c2cf.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe cr CMakeFiles\cmTC_4c2cf.dir/objects.a @CMakeFiles\cmTC_4c2cf.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe      -Wl,--whole-archive CMakeFiles\cmTC_4c2cf.dir/objects.a -Wl,--no-whole-archive  -o cmTC_4c2cf.exe -Wl,--out-implib,libcmTC_4c2cf.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_4c2cf.dir\linklibs.rsp
+mingw32-make[1]: Leaving directory 'c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -638,19 +638,19 @@ mingw32-make[1]: Leaving directory 'c:/Users/Saturn/Documents/git/unittest_test/
 
 
 Detecting CXX [-std=c++11] compiler features compiled with the following output:
-Change Dir: c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp
+Change Dir: c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/msys64/ucrt64/bin/mingw32-make.exe" "cmTC_df19c/fast"
-C:/msys64/ucrt64/bin/mingw32-make.exe -f CMakeFiles\cmTC_df19c.dir\build.make CMakeFiles/cmTC_df19c.dir/build
-mingw32-make[1]: Entering directory 'c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_df19c.dir/feature_tests.cxx.obj
-cd /d C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\CMakeTmp && C:\msys64\ucrt64\bin\g++.exe    -std=c++11 -o CMakeFiles\cmTC_df19c.dir\feature_tests.cxx.obj -c C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\feature_tests.cxx
-Linking CXX executable cmTC_df19c.exe
-cd /d C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\CMakeTmp && "C:\Program Files\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_df19c.dir\link.txt --verbose=1
-"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_df19c.dir/objects.a
-C:\msys64\ucrt64\bin\ar.exe cr CMakeFiles\cmTC_df19c.dir/objects.a @CMakeFiles\cmTC_df19c.dir\objects1.rsp
-C:\msys64\ucrt64\bin\g++.exe      -Wl,--whole-archive CMakeFiles\cmTC_df19c.dir/objects.a -Wl,--no-whole-archive  -o cmTC_df19c.exe -Wl,--out-implib,libcmTC_df19c.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_df19c.dir\linklibs.rsp
-mingw32-make[1]: Leaving directory 'c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp'
+Run Build Command:"C:/msys64/ucrt64/bin/mingw32-make.exe" "cmTC_62b61/fast"
+C:/msys64/ucrt64/bin/mingw32-make.exe -f CMakeFiles\cmTC_62b61.dir\build.make CMakeFiles/cmTC_62b61.dir/build
+mingw32-make[1]: Entering directory 'c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_62b61.dir/feature_tests.cxx.obj
+cd /d C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\CMakeTmp && C:\msys64\ucrt64\bin\g++.exe    -std=c++11 -o CMakeFiles\cmTC_62b61.dir\feature_tests.cxx.obj -c C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\feature_tests.cxx
+Linking CXX executable cmTC_62b61.exe
+cd /d C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\CMakeTmp && "C:\Program Files\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_62b61.dir\link.txt --verbose=1
+"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_62b61.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe cr CMakeFiles\cmTC_62b61.dir/objects.a @CMakeFiles\cmTC_62b61.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe      -Wl,--whole-archive CMakeFiles\cmTC_62b61.dir/objects.a -Wl,--no-whole-archive  -o cmTC_62b61.exe -Wl,--out-implib,libcmTC_62b61.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_62b61.dir\linklibs.rsp
+mingw32-make[1]: Leaving directory 'c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
@@ -713,19 +713,19 @@ mingw32-make[1]: Leaving directory 'c:/Users/Saturn/Documents/git/unittest_test/
 
 
 Detecting CXX [-std=c++98] compiler features compiled with the following output:
-Change Dir: c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp
+Change Dir: c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/msys64/ucrt64/bin/mingw32-make.exe" "cmTC_e707f/fast"
-C:/msys64/ucrt64/bin/mingw32-make.exe -f CMakeFiles\cmTC_e707f.dir\build.make CMakeFiles/cmTC_e707f.dir/build
-mingw32-make[1]: Entering directory 'c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_e707f.dir/feature_tests.cxx.obj
-cd /d C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\CMakeTmp && C:\msys64\ucrt64\bin\g++.exe    -std=c++98 -o CMakeFiles\cmTC_e707f.dir\feature_tests.cxx.obj -c C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\feature_tests.cxx
-Linking CXX executable cmTC_e707f.exe
-cd /d C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\CMakeTmp && "C:\Program Files\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_e707f.dir\link.txt --verbose=1
-"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_e707f.dir/objects.a
-C:\msys64\ucrt64\bin\ar.exe cr CMakeFiles\cmTC_e707f.dir/objects.a @CMakeFiles\cmTC_e707f.dir\objects1.rsp
-C:\msys64\ucrt64\bin\g++.exe      -Wl,--whole-archive CMakeFiles\cmTC_e707f.dir/objects.a -Wl,--no-whole-archive  -o cmTC_e707f.exe -Wl,--out-implib,libcmTC_e707f.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_e707f.dir\linklibs.rsp
-mingw32-make[1]: Leaving directory 'c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp'
+Run Build Command:"C:/msys64/ucrt64/bin/mingw32-make.exe" "cmTC_bd93c/fast"
+C:/msys64/ucrt64/bin/mingw32-make.exe -f CMakeFiles\cmTC_bd93c.dir\build.make CMakeFiles/cmTC_bd93c.dir/build
+mingw32-make[1]: Entering directory 'c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_bd93c.dir/feature_tests.cxx.obj
+cd /d C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\CMakeTmp && C:\msys64\ucrt64\bin\g++.exe    -std=c++98 -o CMakeFiles\cmTC_bd93c.dir\feature_tests.cxx.obj -c C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\feature_tests.cxx
+Linking CXX executable cmTC_bd93c.exe
+cd /d C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\CMakeTmp && "C:\Program Files\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_bd93c.dir\link.txt --verbose=1
+"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_bd93c.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe cr CMakeFiles\cmTC_bd93c.dir/objects.a @CMakeFiles\cmTC_bd93c.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe      -Wl,--whole-archive CMakeFiles\cmTC_bd93c.dir/objects.a -Wl,--no-whole-archive  -o cmTC_bd93c.exe -Wl,--out-implib,libcmTC_bd93c.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_bd93c.dir\linklibs.rsp
+mingw32-make[1]: Leaving directory 'c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
@@ -786,37 +786,37 @@ mingw32-make[1]: Leaving directory 'c:/Users/Saturn/Documents/git/unittest_test/
     Feature record: CXX_FEATURE:0cxx_variadic_macros
     Feature record: CXX_FEATURE:0cxx_variadic_templates
 Determining if the include file pthread.h exists passed with the following output:
-Change Dir: c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp
+Change Dir: c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/msys64/ucrt64/bin/mingw32-make.exe" "cmTC_228a8/fast"
-C:/msys64/ucrt64/bin/mingw32-make.exe -f CMakeFiles\cmTC_228a8.dir\build.make CMakeFiles/cmTC_228a8.dir/build
-mingw32-make[1]: Entering directory 'c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_228a8.dir/CheckIncludeFile.c.obj
-cd /d C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\CMakeTmp && C:\msys64\ucrt64\bin\gcc.exe    -o CMakeFiles\cmTC_228a8.dir\CheckIncludeFile.c.obj   -c C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
-Linking C executable cmTC_228a8.exe
-cd /d C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\CMakeTmp && "C:\Program Files\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_228a8.dir\link.txt --verbose=1
-"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_228a8.dir/objects.a
-C:\msys64\ucrt64\bin\ar.exe cr CMakeFiles\cmTC_228a8.dir/objects.a @CMakeFiles\cmTC_228a8.dir\objects1.rsp
-C:\msys64\ucrt64\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_228a8.dir/objects.a -Wl,--no-whole-archive  -o cmTC_228a8.exe -Wl,--out-implib,libcmTC_228a8.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_228a8.dir\linklibs.rsp
-mingw32-make[1]: Leaving directory 'c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp'
+Run Build Command:"C:/msys64/ucrt64/bin/mingw32-make.exe" "cmTC_4bcba/fast"
+C:/msys64/ucrt64/bin/mingw32-make.exe -f CMakeFiles\cmTC_4bcba.dir\build.make CMakeFiles/cmTC_4bcba.dir/build
+mingw32-make[1]: Entering directory 'c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_4bcba.dir/CheckIncludeFile.c.obj
+cd /d C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\CMakeTmp && C:\msys64\ucrt64\bin\gcc.exe    -o CMakeFiles\cmTC_4bcba.dir\CheckIncludeFile.c.obj   -c C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+Linking C executable cmTC_4bcba.exe
+cd /d C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\CMakeTmp && "C:\Program Files\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_4bcba.dir\link.txt --verbose=1
+"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_4bcba.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe cr CMakeFiles\cmTC_4bcba.dir/objects.a @CMakeFiles\cmTC_4bcba.dir\objects1.rsp
+C:\msys64\ucrt64\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_4bcba.dir/objects.a -Wl,--no-whole-archive  -o cmTC_4bcba.exe -Wl,--out-implib,libcmTC_4bcba.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_4bcba.dir\linklibs.rsp
+mingw32-make[1]: Leaving directory 'c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp'
 
 
 Determining if the pthread_create exist passed with the following output:
-Change Dir: c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp
+Change Dir: c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"C:/msys64/ucrt64/bin/mingw32-make.exe" "cmTC_81eef/fast"
-C:/msys64/ucrt64/bin/mingw32-make.exe -f CMakeFiles\cmTC_81eef.dir\build.make CMakeFiles/cmTC_81eef.dir/build
-mingw32-make[1]: Entering directory 'c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_81eef.dir/CheckSymbolExists.c.obj
-cd /d C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\CMakeTmp && C:\msys64\ucrt64\bin\gcc.exe    -o CMakeFiles\cmTC_81eef.dir\CheckSymbolExists.c.obj   -c C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c
-Linking C executable cmTC_81eef.exe
-cd /d C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles\CMakeTmp && "C:\Program Files\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_81eef.dir\link.txt --verbose=1
-"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_81eef.dir/objects.a
-C:\msys64\ucrt64\bin\ar.exe cr CMakeFiles\cmTC_81eef.dir/objects.a @CMakeFiles\cmTC_81eef.dir\objects1.rsp
-C:\msys64\ucrt64\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_81eef.dir/objects.a -Wl,--no-whole-archive  -o cmTC_81eef.exe -Wl,--out-implib,libcmTC_81eef.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_81eef.dir\linklibs.rsp
-mingw32-make[1]: Leaving directory 'c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp'
+Run Build Command:"C:/msys64/ucrt64/bin/mingw32-make.exe" "cmTC_953ed/fast"
+C:/msys64/ucrt64/bin/mingw32-make.exe -f CMakeFiles\cmTC_953ed.dir\build.make CMakeFiles/cmTC_953ed.dir/build
+mingw32-make[1]: Entering directory 'c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_953ed.dir/CheckSymbolExists.c.obj
+cd /d C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\CMakeTmp && C:\msys64\ucrt64\bin\gcc.exe    -o CMakeFiles\cmTC_953ed.dir\CheckSymbolExists.c.obj   -c C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\CMakeTmp\CheckSymbolExists.c
+Linking C executable cmTC_953ed.exe
+cd /d C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles\CMakeTmp && "C:\Program Files\CMake\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_953ed.dir\link.txt --verbose=1
+"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_953ed.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe cr CMakeFiles\cmTC_953ed.dir/objects.a @CMakeFiles\cmTC_953ed.dir\objects1.rsp
+C:\msys64\ucrt64\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_953ed.dir/objects.a -Wl,--no-whole-archive  -o cmTC_953ed.exe -Wl,--out-implib,libcmTC_953ed.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_953ed.dir\linklibs.rsp
+mingw32-make[1]: Leaving directory 'c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp'
 
-File c:/Users/Saturn/Documents/git/unittest_test/google_test_project/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+File c:/Users/Saturn/Documents/git/google_test_project/google_test_project/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
 /* */
 #include <pthread.h>
 

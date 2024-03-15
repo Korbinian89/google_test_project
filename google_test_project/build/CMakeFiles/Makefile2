@@ -58,10 +58,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Saturn\Documents\git\unittest_test\google_test_project
+CMAKE_SOURCE_DIR = C:\Users\Saturn\Documents\git\google_test_project\google_test_project
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build
+CMAKE_BINARY_DIR = C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build
 
 #=============================================================================
 # Target rules for target CMakeFiles/myExecutable.dir
@@ -70,7 +70,7 @@ CMAKE_BINARY_DIR = C:\Users\Saturn\Documents\git\unittest_test\google_test_proje
 CMakeFiles/myExecutable.dir/all:
 	$(MAKE) -f CMakeFiles\myExecutable.dir\build.make CMakeFiles/myExecutable.dir/depend
 	$(MAKE) -f CMakeFiles\myExecutable.dir\build.make CMakeFiles/myExecutable.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles --progress-num=1,2 "Built target myExecutable"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles --progress-num=1,2 "Built target myExecutable"
 .PHONY : CMakeFiles/myExecutable.dir/all
 
 # Include target in all.
@@ -80,9 +80,9 @@ all: CMakeFiles/myExecutable.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/myExecutable.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles 2
 	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/myExecutable.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Saturn\Documents\git\unittest_test\google_test_project\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Saturn\Documents\git\google_test_project\google_test_project\build\CMakeFiles 0
 .PHONY : CMakeFiles/myExecutable.dir/rule
 
 # Convenience name for target.

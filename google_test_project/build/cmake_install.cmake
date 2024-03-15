@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Saturn/Documents/git/unittest_test/google_test_project
+# Install script for directory: C:/Users/Saturn/Documents/git/google_test_project/google_test_project
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
