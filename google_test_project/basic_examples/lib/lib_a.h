@@ -1,4 +1,4 @@
-// lib definitions
+// Library definition
 #pragma once
 
 int add(int a, int b);
@@ -15,3 +15,23 @@ public:
 private:
     double mBalance = 0.0;
 };
+
+
+class Validator
+{
+public:
+    Validator(int low, int high);
+    bool in_range(int iValueToTest);
+private:
+    int mLow = 0, mHigh = 0;
+};
+
+
+
+class MyClass
+{
+public:
+    MyClass() = default;
+    virtual void my_method();
+};
+

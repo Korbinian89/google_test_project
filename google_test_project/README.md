@@ -21,7 +21,7 @@ Setup GTest
 - Create Build Folder
 - cmake -G "MinGW Makefiles" 
 - mingw32-make
-- Copy all Libs (libgmock.a, libgmock-main.a, libgtest.a, libgtest_main.a) to Compiler lib (C:\msys64\ucrt64\include)
+- Copy all Libs (libgmock.a, libgmock-main.a, libgtest.a, libgtest_main.a) to Compiler lib (C:\msys64\ucrt64\lib)
 - googlemock/include complete gmock directory to Compiler include (C:\msys64\ucrt64\include)
 - googletest/include complete gtest directory to Compiler include (C:\msys64\ucrt64\include)
 
@@ -36,3 +36,8 @@ Add GTest to main.cpp
   {
     ASSERT_EQ(2, add(1,1));
   }
+
+Add GMock to CMakeLists.txt
+- no find package available
+- set variable
+- set(GMOCK_LIBRARIES C:\msys64\ucrt64\lib\libgmock.a C:\msys64\ucrt64\lib\libgmock_main.a )
